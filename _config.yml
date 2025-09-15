@@ -26,11 +26,11 @@ author:
   avatar           : "bianxiaoyu.png"
   name             : "Bian xiaoyu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "The Chinese University of Hong Kong"
+  location         : "Hong Kong"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xiaoyubianhk@gmail.com" 
 
   # Academic websites
   academia         : # URL
